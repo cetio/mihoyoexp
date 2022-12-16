@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Mihoyo": {
+      "commandName": "Project",
+      "hotReloadEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}
